@@ -1,0 +1,23 @@
+ # Data files
+data/
+*.csv
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# VS Code
+.vscode/
+
+# Charts
+*.png
+*.jpg

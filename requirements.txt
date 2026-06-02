@@ -1,0 +1,17 @@
+ 
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+mlflow
+fastapi
+uvicorn
+pydantic
+psycopg2-binary
+pytest
+python-dotenv
+flake8
+scipy"C:\Program Files\Python314\python.exe" -m pip install xgboost lightgbm mlflow fastapi uvicorn flake8
